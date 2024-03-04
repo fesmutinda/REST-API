@@ -1,0 +1,233 @@
+D:\Snashy Learn\mainService\mainService\bin\roslyn\csc.exe
+D:\Snashy Learn\mainService\mainService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Snashy Learn\mainService\mainService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Snashy Learn\mainService\mainService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Snashy Learn\mainService\mainService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Snashy Learn\mainService\mainService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Snashy Learn\mainService\mainService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Snashy Learn\mainService\mainService\bin\roslyn\System.Collections.Immutable.dll
+D:\Snashy Learn\mainService\mainService\bin\roslyn\System.Reflection.Metadata.dll
+D:\Snashy Learn\mainService\mainService\bin\roslyn\vbc.exe
+D:\Snashy Learn\mainService\mainService\bin\roslyn\VBCSCompiler.exe
+D:\Snashy Learn\mainService\mainService\bin\roslyn\VBCSCompiler.exe.config
+D:\Snashy Learn\mainService\mainService\bin\mainService.dll.config
+D:\Snashy Learn\mainService\mainService\bin\mainService.dll
+D:\Snashy Learn\mainService\mainService\bin\mainService.pdb
+D:\Snashy Learn\mainService\mainService\bin\Antlr3.Runtime.dll
+D:\Snashy Learn\mainService\mainService\bin\EntityFramework.dll
+D:\Snashy Learn\mainService\mainService\bin\EntityFramework.SqlServer.dll
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.Owin.dll
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.Owin.Security.dll
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.Owin.Security.Google.dll
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.Web.Infrastructure.dll
+D:\Snashy Learn\mainService\mainService\bin\Newtonsoft.Json.dll
+D:\Snashy Learn\mainService\mainService\bin\Owin.dll
+D:\Snashy Learn\mainService\mainService\bin\System.Net.Http.Formatting.dll
+D:\Snashy Learn\mainService\mainService\bin\System.Web.Helpers.dll
+D:\Snashy Learn\mainService\mainService\bin\System.Web.Http.dll
+D:\Snashy Learn\mainService\mainService\bin\System.Web.Http.Owin.dll
+D:\Snashy Learn\mainService\mainService\bin\System.Web.Http.WebHost.dll
+D:\Snashy Learn\mainService\mainService\bin\System.Web.Mvc.dll
+D:\Snashy Learn\mainService\mainService\bin\System.Web.Optimization.dll
+D:\Snashy Learn\mainService\mainService\bin\System.Web.Razor.dll
+D:\Snashy Learn\mainService\mainService\bin\System.Web.WebPages.Deployment.dll
+D:\Snashy Learn\mainService\mainService\bin\System.Web.WebPages.dll
+D:\Snashy Learn\mainService\mainService\bin\System.Web.WebPages.Razor.dll
+D:\Snashy Learn\mainService\mainService\bin\WebGrease.dll
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Snashy Learn\mainService\mainService\bin\Newtonsoft.Json.xml
+D:\Snashy Learn\mainService\mainService\bin\System.Net.Http.Formatting.xml
+D:\Snashy Learn\mainService\mainService\bin\System.Web.Helpers.xml
+D:\Snashy Learn\mainService\mainService\bin\System.Web.Http.xml
+D:\Snashy Learn\mainService\mainService\bin\System.Web.Http.WebHost.xml
+D:\Snashy Learn\mainService\mainService\bin\System.Web.Mvc.xml
+D:\Snashy Learn\mainService\mainService\bin\System.Web.Optimization.xml
+D:\Snashy Learn\mainService\mainService\bin\System.Web.Razor.xml
+D:\Snashy Learn\mainService\mainService\bin\System.Web.WebPages.xml
+D:\Snashy Learn\mainService\mainService\bin\System.Web.WebPages.Deployment.xml
+D:\Snashy Learn\mainService\mainService\bin\System.Web.WebPages.Razor.xml
+D:\Snashy Learn\mainService\mainService\bin\Antlr3.Runtime.pdb
+D:\Snashy Learn\mainService\mainService\bin\EntityFramework.xml
+D:\Snashy Learn\mainService\mainService\bin\EntityFramework.SqlServer.xml
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.Owin.xml
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.Owin.Security.xml
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.Owin.Security.Google.xml
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Snashy Learn\mainService\mainService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Snashy Learn\mainService\mainService\bin\System.Web.Http.Owin.xml
+D:\Snashy Learn\mainService\mainService\obj\Debug\mainService.dll
+D:\Snashy Learn\mainService\mainService\obj\Debug\mainService.pdb
+D:\Snashy Learn\mainService\mainService\obj\Debug\mainService.csprojResolveAssemblyReference.cache
+E:\Sure Step\APIs\mainService\mainService\bin\roslyn\csc.exe
+E:\Sure Step\APIs\mainService\mainService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sure Step\APIs\mainService\mainService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sure Step\APIs\mainService\mainService\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sure Step\APIs\mainService\mainService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sure Step\APIs\mainService\mainService\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sure Step\APIs\mainService\mainService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sure Step\APIs\mainService\mainService\bin\roslyn\System.Collections.Immutable.dll
+E:\Sure Step\APIs\mainService\mainService\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sure Step\APIs\mainService\mainService\bin\roslyn\vbc.exe
+E:\Sure Step\APIs\mainService\mainService\bin\roslyn\VBCSCompiler.exe
+E:\Sure Step\APIs\mainService\mainService\bin\roslyn\VBCSCompiler.exe.config
+E:\Sure Step\APIs\mainService\mainService\bin\mainService.dll.config
+E:\Sure Step\APIs\mainService\mainService\bin\mainService.dll
+E:\Sure Step\APIs\mainService\mainService\bin\mainService.pdb
+E:\Sure Step\APIs\mainService\mainService\bin\Antlr3.Runtime.dll
+E:\Sure Step\APIs\mainService\mainService\bin\EntityFramework.dll
+E:\Sure Step\APIs\mainService\mainService\bin\EntityFramework.SqlServer.dll
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.Owin.dll
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.Owin.Security.dll
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.Owin.Security.Google.dll
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.Web.Infrastructure.dll
+E:\Sure Step\APIs\mainService\mainService\bin\Newtonsoft.Json.dll
+E:\Sure Step\APIs\mainService\mainService\bin\Owin.dll
+E:\Sure Step\APIs\mainService\mainService\bin\System.Net.Http.Formatting.dll
+E:\Sure Step\APIs\mainService\mainService\bin\System.Web.Helpers.dll
+E:\Sure Step\APIs\mainService\mainService\bin\System.Web.Http.dll
+E:\Sure Step\APIs\mainService\mainService\bin\System.Web.Http.Owin.dll
+E:\Sure Step\APIs\mainService\mainService\bin\System.Web.Http.WebHost.dll
+E:\Sure Step\APIs\mainService\mainService\bin\System.Web.Mvc.dll
+E:\Sure Step\APIs\mainService\mainService\bin\System.Web.Optimization.dll
+E:\Sure Step\APIs\mainService\mainService\bin\System.Web.Razor.dll
+E:\Sure Step\APIs\mainService\mainService\bin\System.Web.WebPages.Deployment.dll
+E:\Sure Step\APIs\mainService\mainService\bin\System.Web.WebPages.dll
+E:\Sure Step\APIs\mainService\mainService\bin\System.Web.WebPages.Razor.dll
+E:\Sure Step\APIs\mainService\mainService\bin\WebGrease.dll
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sure Step\APIs\mainService\mainService\bin\Newtonsoft.Json.xml
+E:\Sure Step\APIs\mainService\mainService\bin\System.Net.Http.Formatting.xml
+E:\Sure Step\APIs\mainService\mainService\bin\System.Web.Helpers.xml
+E:\Sure Step\APIs\mainService\mainService\bin\System.Web.Http.xml
+E:\Sure Step\APIs\mainService\mainService\bin\System.Web.Http.WebHost.xml
+E:\Sure Step\APIs\mainService\mainService\bin\System.Web.Mvc.xml
+E:\Sure Step\APIs\mainService\mainService\bin\System.Web.Optimization.xml
+E:\Sure Step\APIs\mainService\mainService\bin\System.Web.Razor.xml
+E:\Sure Step\APIs\mainService\mainService\bin\System.Web.WebPages.xml
+E:\Sure Step\APIs\mainService\mainService\bin\System.Web.WebPages.Deployment.xml
+E:\Sure Step\APIs\mainService\mainService\bin\System.Web.WebPages.Razor.xml
+E:\Sure Step\APIs\mainService\mainService\bin\Antlr3.Runtime.pdb
+E:\Sure Step\APIs\mainService\mainService\bin\EntityFramework.xml
+E:\Sure Step\APIs\mainService\mainService\bin\EntityFramework.SqlServer.xml
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.Owin.xml
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.Owin.Security.xml
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.Owin.Security.Google.xml
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Sure Step\APIs\mainService\mainService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Sure Step\APIs\mainService\mainService\bin\System.Web.Http.Owin.xml
+E:\Sure Step\APIs\mainService\mainService\obj\Debug\mainService.csprojResolveAssemblyReference.cache
+E:\Sure Step\APIs\mainService\mainService\obj\Debug\mainService.dll
+E:\Sure Step\APIs\mainService\mainService\obj\Debug\mainService.pdb
+C:\Festus\Snashy\mainService\mainService\bin\roslyn\csc.exe
+C:\Festus\Snashy\mainService\mainService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Festus\Snashy\mainService\mainService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Festus\Snashy\mainService\mainService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Festus\Snashy\mainService\mainService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Festus\Snashy\mainService\mainService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Festus\Snashy\mainService\mainService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Festus\Snashy\mainService\mainService\bin\roslyn\System.Collections.Immutable.dll
+C:\Festus\Snashy\mainService\mainService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Festus\Snashy\mainService\mainService\bin\roslyn\vbc.exe
+C:\Festus\Snashy\mainService\mainService\bin\roslyn\VBCSCompiler.exe
+C:\Festus\Snashy\mainService\mainService\bin\roslyn\VBCSCompiler.exe.config
+C:\Festus\Snashy\mainService\mainService\bin\mainService.dll.config
+C:\Festus\Snashy\mainService\mainService\bin\mainService.dll
+C:\Festus\Snashy\mainService\mainService\bin\mainService.pdb
+C:\Festus\Snashy\mainService\mainService\bin\Antlr3.Runtime.dll
+C:\Festus\Snashy\mainService\mainService\bin\EntityFramework.dll
+C:\Festus\Snashy\mainService\mainService\bin\EntityFramework.SqlServer.dll
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.Owin.dll
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.Owin.Security.dll
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.Owin.Security.Google.dll
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.Web.Infrastructure.dll
+C:\Festus\Snashy\mainService\mainService\bin\Newtonsoft.Json.dll
+C:\Festus\Snashy\mainService\mainService\bin\Owin.dll
+C:\Festus\Snashy\mainService\mainService\bin\System.Net.Http.Formatting.dll
+C:\Festus\Snashy\mainService\mainService\bin\System.Web.Helpers.dll
+C:\Festus\Snashy\mainService\mainService\bin\System.Web.Http.dll
+C:\Festus\Snashy\mainService\mainService\bin\System.Web.Http.Owin.dll
+C:\Festus\Snashy\mainService\mainService\bin\System.Web.Http.WebHost.dll
+C:\Festus\Snashy\mainService\mainService\bin\System.Web.Mvc.dll
+C:\Festus\Snashy\mainService\mainService\bin\System.Web.Optimization.dll
+C:\Festus\Snashy\mainService\mainService\bin\System.Web.Razor.dll
+C:\Festus\Snashy\mainService\mainService\bin\System.Web.WebPages.Deployment.dll
+C:\Festus\Snashy\mainService\mainService\bin\System.Web.WebPages.dll
+C:\Festus\Snashy\mainService\mainService\bin\System.Web.WebPages.Razor.dll
+C:\Festus\Snashy\mainService\mainService\bin\WebGrease.dll
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Festus\Snashy\mainService\mainService\bin\Newtonsoft.Json.xml
+C:\Festus\Snashy\mainService\mainService\bin\System.Net.Http.Formatting.xml
+C:\Festus\Snashy\mainService\mainService\bin\System.Web.Helpers.xml
+C:\Festus\Snashy\mainService\mainService\bin\System.Web.Http.xml
+C:\Festus\Snashy\mainService\mainService\bin\System.Web.Http.WebHost.xml
+C:\Festus\Snashy\mainService\mainService\bin\System.Web.Mvc.xml
+C:\Festus\Snashy\mainService\mainService\bin\System.Web.Optimization.xml
+C:\Festus\Snashy\mainService\mainService\bin\System.Web.Razor.xml
+C:\Festus\Snashy\mainService\mainService\bin\System.Web.WebPages.xml
+C:\Festus\Snashy\mainService\mainService\bin\System.Web.WebPages.Deployment.xml
+C:\Festus\Snashy\mainService\mainService\bin\System.Web.WebPages.Razor.xml
+C:\Festus\Snashy\mainService\mainService\bin\Antlr3.Runtime.pdb
+C:\Festus\Snashy\mainService\mainService\bin\EntityFramework.xml
+C:\Festus\Snashy\mainService\mainService\bin\EntityFramework.SqlServer.xml
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.Owin.xml
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.Owin.Security.xml
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.Owin.Security.Google.xml
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Festus\Snashy\mainService\mainService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Festus\Snashy\mainService\mainService\bin\System.Web.Http.Owin.xml
+C:\Festus\Snashy\mainService\mainService\obj\Debug\mainService.dll
+C:\Festus\Snashy\mainService\mainService\obj\Debug\mainService.pdb
+C:\Festus\Snashy\mainService\mainService\obj\Debug\mainService.csproj.AssemblyReference.cache
+C:\Festus\Snashy\mainService\mainService\obj\Debug\mainService.csproj.CoreCompileInputs.cache
+C:\Festus\Snashy\mainService\mainService\obj\Debug\mainService.csproj.CopyComplete
